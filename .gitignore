@@ -1,0 +1,9 @@
+*.swp
+
+# Intellij files
+.idea
+*.iml
+*.ipr
+*.iws
+.ideaDataSources/
+.shelf
